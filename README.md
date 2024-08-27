@@ -1,9 +1,9 @@
 # Encriptador de texto
-<<<<<<< HEAD
-![Encriptador](/Imagenes/favicon.png) 
-=======
+<<<<<<<<< Temporary merge branch 1
 !(/Imagenes/favicon.png)
->>>>>>> bc3df69e60932d737f0af401ff36fb1ea45870af
+=========
+![Encriptador](/Imagenes/favicon.png) 
+>>>>>>>>> Temporary merge branch 2
 
 <p align="justify">Esta programa ayuda a desencriptar y encriptar mensajes, y forma parte del programa de formación de Oracle</p>
 
